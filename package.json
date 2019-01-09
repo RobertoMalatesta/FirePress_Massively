@@ -1,6 +1,6 @@
 {
-    "name": "massively",
-    "description": "This is Massively, a text-heavy, article-oriented theme for Ghost.",
+    "name": "FirePress_Massively",
+    "description": "This Ghost theme is supported by FirePress. Find more free themes at https://github.com/topics/firepress-ghost-theme",
     "demo": "https://massively.ghost.io",
     "version": "1.0.1",
     "engines": {
